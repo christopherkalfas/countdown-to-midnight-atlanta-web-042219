@@ -1,2 +1,2 @@
-def countdown
+def countdown_output
 end 
